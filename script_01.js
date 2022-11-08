@@ -9,7 +9,7 @@
 */
 
 // Konsolen-Ausgaben
-let firstName="Daniela"
+let firstName="Daniela" //Definierung Variable
 
- console.log("Hallo"); //String
-console.log(firstName); //variable
+ console.log("Hallo"); //Ausgabe String
+console.log(firstName); //Ausgabe variable
