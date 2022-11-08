@@ -14,4 +14,4 @@ let firstName="Max" //Wert Zuweisung
 console.log(firstName); //Ausgabe variable
 
 let lastName="Mütze";
-console.log (lastName);
+console.log(lastName);
