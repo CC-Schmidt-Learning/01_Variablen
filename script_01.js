@@ -9,7 +9,6 @@
 */
 /***02-Deklaration & Wertzuweisung ***/
 
-let firstName;//Deklaration
 let firstName="Max" //Wert Zuweisung
 console.log(firstName); //Ausgabe variable
 
