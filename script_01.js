@@ -9,9 +9,9 @@
 */
 /***02-Deklaration & Wertzuweisung ***/
 
-let firstName="Daniela" //Deklaration Variable
-
-// Konsolen-Ausgaben
-
- console.log("Hallo"); //Ausgabe String
+let firstName;//Deklaration
+let firstName="Max" //Wert Zuweisung
 console.log(firstName); //Ausgabe variable
+
+let lastName="Mütze";
+console.log (lastName);
