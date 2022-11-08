@@ -48,7 +48,7 @@
                 <mxCell id="fSZinGSRB97kHrwqoCWl-12" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fSZinGSRB97kHrwqoCWl-1" source="fSZinGSRB97kHrwqoCWl-6" target="fSZinGSRB97kHrwqoCWl-4">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="fSZinGSRB97kHrwqoCWl-6" value="Ausgabe firstName &amp;amp;&lt;br&gt;lastName" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="fSZinGSRB97kHrwqoCWl-1">
+                <mxCell id="fSZinGSRB97kHrwqoCWl-6" value="Ausgabe&lt;br&gt;&amp;nbsp;firstName &amp;amp;&lt;br&gt;lastName" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="fSZinGSRB97kHrwqoCWl-1">
                     <mxGeometry x="320" y="310" width="150" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="fSZinGSRB97kHrwqoCWl-11" style="edgeStyle=none;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fSZinGSRB97kHrwqoCWl-1" source="fSZinGSRB97kHrwqoCWl-7" target="fSZinGSRB97kHrwqoCWl-6">
