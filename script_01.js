@@ -9,5 +9,7 @@
 */
 
 // Konsolen-Ausgaben
- console.log("Hallo");
-console.log(firstName);
+let firstName="Daniela"
+
+ console.log("Hallo"); //String
+console.log(firstName); //variable
