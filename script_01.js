@@ -15,8 +15,21 @@
 //console.log(firstName + " "+ lastName);//Ausgabe variable
 
 
-let firstName, lastName;
-firstName= prompt("please insert name here");
-lastName= prompt("please insert name here");
+//let firstName, lastName;
+//firstName= prompt("please insert firstname here");
+//lastName= prompt("please insert lastname here");
 
-console.log(firstName+ " " + lastName);
+//console.log(firstName+ " " + lastName);
+
+/*JS ist eine untypisierte Sprache! | untyped */
+
+let test;
+//test= "Hi";
+//test=2;
+test=true;
+
+
+console.log("Datentyp: " + typeof test)
+console.log("Inhalt: " + test); //Ausgabe
+
+
