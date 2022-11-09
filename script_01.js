@@ -33,3 +33,7 @@ console.log("Datentyp: " + typeof test)
 console.log("Inhalt: " + test); //Ausgabe
 
 
+/******* Konstanten ********/
+
+const test1 = "Hi";
+console.log("Inhalt: " + test1); //Ausgabe 
