@@ -38,3 +38,20 @@ console.log("Inhalt: " + test); //Ausgabe
 const test1 = "Hey there";
 console.log("Inhalt: " + test1); //Ausgabe 
 
+/******* Beispiel *******/
+
+
+let ageJohn, ageMarc;
+let birthYearJohn, birthYearMarc;
+let year = 2022
+
+ageJohn = 25;
+ageMarc = 30
+
+// Berechnung 
+
+birthYearJohn = year - ageJohn;
+birthYearMarc = year - ageMarc;
+
+console.log ("birthYearJohn: "+ birthYearJohn);
+console.log ("birthYearMarc: " + birthYearMarc);
