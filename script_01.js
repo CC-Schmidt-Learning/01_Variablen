@@ -15,7 +15,7 @@
 //console.log(firstName + " "+ lastName);//Ausgabe variable
 
 
-let firstName,lastName;
+let firstName, lastName;
 firstName= prompt("please insert name here");
 lastName= prompt("please insert name here");
 
