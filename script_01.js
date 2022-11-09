@@ -15,6 +15,8 @@
 //console.log(firstName + " "+ lastName);//Ausgabe variable
 
 
-let firstName,lastName ="Max Mütze";
+let firstName,lastName;
+firstName= "Max";
+lastName= "Mütze";
 
 console.log(firstName+lastName);
