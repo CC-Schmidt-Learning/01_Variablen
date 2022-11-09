@@ -23,20 +23,20 @@
 
 /*JS ist eine untypisierte Sprache! | untyped */
 
-let test;
+//let test;
 //test= "Hi";
 //test=2;
-test=true;
+//test=true;
 
 
-console.log("Datentyp: " + typeof test)
-console.log("Inhalt: " + test); //Ausgabe
+//console.log("Datentyp: " + typeof test)
+//console.log("Inhalt: " + test); //Ausgabe
 
 
 /******* Konstanten ********/
 
-const test1 = "Hey there";
-console.log("Inhalt: " + test1); //Ausgabe 
+//const test1 = "Hey there";
+//console.log("Inhalt: " + test1); //Ausgabe 
 
 /******* Beispiel *******/
 
