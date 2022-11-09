@@ -9,7 +9,12 @@
 */
 /***02-Deklaration & Wertzuweisung ***/
 
-let firstName="Max" //Wert Zuweisung
-let lastName="Mütze";
+//let firstName="Max" //Wert Zuweisung
+//let lastName="Mütze";
 
-console.log(firstName + " "+ lastName);//Ausgabe variable
+//console.log(firstName + " "+ lastName);//Ausgabe variable
+
+
+let firstName,lastName ="Max Mütze";
+
+console.log(firstName+lastName);
