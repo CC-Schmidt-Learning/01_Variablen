@@ -43,15 +43,17 @@
 
 let ageJohn, ageMarc;
 let birthYearJohn, birthYearMarc;
-let year = 2022
+let date = new Date();
+let year = date.getFullYear();
 
-ageJohn = 25;
-ageMarc = 30
+ageJohn = prompt("Insert age here");
+ageMarc = prompt ("Insert age here");
 
 // Berechnung 
 
 birthYearJohn = year - ageJohn;
 birthYearMarc = year - ageMarc;
-
+console.log (date);
 console.log ("birthYearJohn: "+ birthYearJohn);
 console.log ("birthYearMarc: " + birthYearMarc);
+
