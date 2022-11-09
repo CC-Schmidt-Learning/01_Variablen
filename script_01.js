@@ -19,4 +19,4 @@ let firstName,lastName;
 firstName= "Max";
 lastName= "Mütze";
 
-console.log(firstName+lastName);
+console.log(firstName+ " " + lastName);
