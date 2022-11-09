@@ -35,5 +35,6 @@ console.log("Inhalt: " + test); //Ausgabe
 
 /******* Konstanten ********/
 
-const test1 = "Hi";
+const test1 = "Hey there";
 console.log("Inhalt: " + test1); //Ausgabe 
+
