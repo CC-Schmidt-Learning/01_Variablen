@@ -16,7 +16,7 @@
 
 
 let firstName,lastName;
-firstName= "Max";
-lastName= "Mütze";
+firstName= prompt("Olease insert name here");
+lastName= prompt("Olease insert name here");
 
 console.log(firstName+ " " + lastName);
